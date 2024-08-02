@@ -1,0 +1,12 @@
+PyPDF2
+langchain
+langchainhub
+langchain-community
+langsmith
+typer
+langchain_google_genai
+python-dotenv
+faiss-cpu
+rich
+langchain-openai
+rank_bm25

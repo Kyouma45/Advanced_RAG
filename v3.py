@@ -82,7 +82,7 @@ class ProjectManager:
         # self.embeddings = GoogleGenerativeAIEmbeddings(model="models/embedding-001")
         # self.llm = ChatGoogleGenerativeAI(model="gemini-pro", temperature=0)
         self.embeddings = OpenAIEmbeddings()
-        self.llm = ChatOpenAI(model="gpt-3.5-turbo")
+        self.llm = ChatOpenAI(model="gpt-4o")
         self.summary = ""
         prompt_template = """
         You are an assistant for question-answering tasks. Use the following pieces of retrieved context to answer the \

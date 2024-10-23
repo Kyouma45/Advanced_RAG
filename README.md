@@ -68,5 +68,5 @@ As you can see, it can answer questions along with follow-up questions using its
 We welcome contributions from the community! Please read the Contributing Guidelines for more information on how to get involved.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the Apache License.
 
